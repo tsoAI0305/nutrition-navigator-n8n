@@ -186,7 +186,7 @@
             },
             {
               "name": "key",
-              "value": "AIzaSyDbceqX4fTLZAPP22JkxInA9qMs1j-oQ4I"
+              "value": "YOUR_GOOGLE_MAPS_API_KEY"
             },
             {
               "name": "language",
@@ -229,7 +229,7 @@
             },
             {
               "name": "key",
-              "value": "AIzaSyDbceqX4fTLZAPP22JkxInA9qMs1j-oQ4I"
+              "value": "YOUR_GOOGLE_MAPS_API_KEY"
             }
           ]
         },
@@ -837,7 +837,7 @@
             },
             {
               "name": "key",
-              "value": "AIzaSyDbceqX4fTLZAPP22JkxInA9qMs1j-oQ4I"
+              "value": "YOUR_GOOGLE_MAPS_API_KEY"
             }
           ]
         },
@@ -2619,7 +2619,7 @@
             },
             {
               "name": "key",
-              "value": "AIzaSyDbceqX4fTLZAPP22JkxInA9qMs1j-oQ4I"
+              "value": "YOUR_GOOGLE_MAPS_API_KEY"
             },
             {
               "name": "language",
@@ -2715,7 +2715,7 @@
             },
             {
               "name": "key",
-              "value": "AIzaSyDbceqX4fTLZAPP22JkxInA9qMs1j-oQ4I"
+              "value": "YOUR_GOOGLE_MAPS_API_KEY"
             }
           ]
         },
@@ -2819,7 +2819,7 @@
             },
             {
               "name": "key",
-              "value": "AIzaSyDbceqX4fTLZAPP22JkxInA9qMs1j-oQ4I"
+              "value": "YOUR_GOOGLE_MAPS_API_KEY"
             }
           ]
         },
