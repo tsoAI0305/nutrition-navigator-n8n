@@ -7,6 +7,10 @@
 [![Groq AI](https://img.shields.io/badge/Groq-000000?style=for-the-badge)](https://groq.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
+## 📺 Project Demo Video
+[![AI Nutrition Navigator Demo](https://img.youtube.com/vi/Y5HIaPVslx8/0.jpg)](https://youtu.be/Y5HIaPVslx8)
+*Click the image above to watch the full system demonstration on YouTube.*
+
 ## 🎯 專案簡介
 
 AI 營養導航系統是基於 N8N 工作流程引擎開發的智能營養推薦平台，整合 LINE Bot、Google Maps API、Groq AI 與 Supabase 資料庫，為使用者提供個人化的餐廳推薦與營養建議。
