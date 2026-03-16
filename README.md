@@ -8,7 +8,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ## 📺 Project Demo Video
-[![AI Nutrition Navigator Demo](https://img.youtube.com/vi/Y5HlaPVslx8/0.jpg)](https://youtu.be/Y5HlaPVslx8)
+[![AI Nutrition Navigator Demo](https://img.youtube.com/vi/Qv3KjP5daQk/0.jpg)](https://youtu.be/Qv3KjP5daQk)
 *Click the image above to watch the full system demonstration on YouTube.*
 
 ## 🎯 專案簡介
